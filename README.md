@@ -16,6 +16,13 @@ Dashboard Features
   Asset class allocation breakdown
   Fund-wise performance overview
   Interactive filters for time period and category
-<img src="1st inv.png" width="700">
+<img src="1st inv.png">
+<img src="2nd inv.png">
+<img src="3rd inv.png">
+<img src="4th inv.png">
+<img src="5th inv.png">
+<img src="6th inv.png">
+<img src="7th inv.png">
+<img src="8th inv.png">
 
 
