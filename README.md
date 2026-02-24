@@ -16,4 +16,6 @@ Dashboard Features
   Asset class allocation breakdown
   Fund-wise performance overview
   Interactive filters for time period and category
-![Image title](1st inv.png)
+<img src="1st inv.png" width="700">
+
+
